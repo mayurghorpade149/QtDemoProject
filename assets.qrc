@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>stackView.qml</file>
+        <file>SignUp.qml</file>
+        <file>passuserimg/pass.png</file>
+        <file>passuserimg/password.png</file>
+        <file>passuserimg/username.png</file>
+        <file>passuserimg/visible.png</file>
+        <file>loginpage.qml</file>
+        <file>signup/hide.png</file>
+        <file>signup/password.png</file>
+        <file>signup/show.png</file>
+        <file>signup/username.png</file>
+        <file>UserFrom.qml</file>
+        <file>Listview.qml</file>
+        <file>GridView.qml</file>
+        <file>Conversion.qml</file>
+        <file>ChartViewDesign.qml</file>
+        <file>Calculator.qml</file>
+
+        <file>osmmap.qml</file>
+
+
+        <file>PieChart.qml</file>
+        <file>LineChart.qml</file>
+        <file>BarChart.qml</file>
+
+        <file>Mapview.qml</file>
+
+    </qresource>
+</RCC>
